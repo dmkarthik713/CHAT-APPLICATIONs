@@ -17,3 +17,8 @@ During my internship, I worked on a web-based Live Chat Application using Node.j
 I used Replit as the development environment, which allowed me to code, run, and preview the application entirely in the browser without any local setup. I created three main files: index.html for the frontend UI, index.js for server-side logic using Express and Socket.IO, and package.json for managing dependencies. After setting up the server and writing the client-side socket code, I tested the chat by opening the app in two tabs and observed successful real-time communication.
 
 Through this project, I gained practical exposure to web sockets, event-based programming, and full-stack deevelopment. I also became more confident using cloud-based IDEs like Replit and learned how to debug live applications. This internship task improved my understanding of how real-time systems work and helped me enhance my problem-solving and coding skills.
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/40af4721-6154-4a35-b7a3-18713103398e)
+![Image](https://github.com/user-attachments/assets/3f64d3d2-e8f5-427a-9acb-c163ce1315e9)
